@@ -1,0 +1,11 @@
+EVIDENCIA: GA7-220501096-AA2-EV01
+APRENDIZ: Andrés Felipe Avendaño López
+FICHA: 3235904
+
+Repositorio local: incluido en esta carpeta mediante el directorio oculto .git
+Rama principal: main
+
+URL DEL REPOSITORIO REMOTO:
+https://github.com/afal875-ai/modulo-inventario-jdbc
+
+Repositorio público publicado y verificado el 16 de agosto de 2026.
